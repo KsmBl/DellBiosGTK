@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Dell BIOS Settings
+Comment=Change Dell BIOS settings from Linux
+Exec=dell-bios-gtk
+Icon=preferences-system
+Categories=System;Settings;GTK;
+Terminal=false

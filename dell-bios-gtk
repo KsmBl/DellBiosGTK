@@ -1,0 +1,3 @@
+#!/bin/sh
+# Launcher for Dell BIOS GTK
+exec python3 "$(dirname "$(readlink -f "$0")")/dellbiosgtk/app.py" "$@"
